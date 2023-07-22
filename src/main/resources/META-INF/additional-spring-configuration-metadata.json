@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.expiration'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.SECRET_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.SECRET_KEY'"
+  },
+  {
+    "name": "application.security.jwt.refreshToken",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.refreshToken'"
+  },
+  {
+    "name": "application.security.jwt.refreshToken",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.refreshToken'"
+  },
+  {
+    "name": "application.security.jwt.refreshToken.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.jwt.refreshToken.expiration'"
+  }
+]}
